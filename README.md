@@ -63,8 +63,8 @@ Currently, I am actively seeking **internship or job opportunities** where I can
 ---
 
 <p align="center">
-  <!-- Centered Skill Icons -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,firebase,git,github,netlify,vercel,surge" />
+  
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,nextjs,firebase,git,github,vercel,surge&perline=6" />
 </p>
 
 ## 📫 Contact Me
@@ -85,17 +85,20 @@ Currently, I am actively seeking **internship or job opportunities** where I can
 
 ## 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://twitter.com/rokymax626" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" />
+<p align="center">
+  <a href="https://twitter.com/rokymax626" target="_blank" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="42" height="42" />
   </a>
-  <a href="https://linkedin.com/in/roky18" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
+
+  <a href="https://linkedin.com/in/roky18" target="_blank" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="42" height="42" />
   </a>
-  <a href="https://facebook.com/rokymax626" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40" />
+
+  <a href="https://facebook.com/rokymax626" target="_blank" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="42" height="42" />
   </a>
 </p>
+
 
 ---
 
