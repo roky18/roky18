@@ -62,6 +62,11 @@ Currently, I am actively seeking **internship or job opportunities** where I can
 
 ---
 
+<p align="center">
+  <!-- Centered Skill Icons -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,firebase,git,github,netlify,vercel,surge" />
+</p>
+
 ## 📫 Contact Me
 
 ✉️ **Email:** roky18bd@gmail.com  
