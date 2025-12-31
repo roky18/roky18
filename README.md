@@ -1,6 +1,5 @@
 <h1 align="center">Assalamu Alaikum! 👋 I'm **MD RAKIBUL ISLAM (ROKY)**</h1>
 <h3 align="center">🚀 Frontend Specialist & MERN Stack Developer from Bangladesh</h3>
----
 <img width="1536" height="1024" alt="git banner" src="https://github.com/user-attachments/assets/f696af91-1793-4de3-a8f3-4dd1f6647e5b" />
 
 
