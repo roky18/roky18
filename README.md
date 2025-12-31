@@ -1,35 +1,98 @@
-<h1 align="center">Assalamuolaikum!👋, I'm MD RAKIBUL ISLAM ROKY</h1>
-<h3 align="center">### 🚀 A passionate Frontend Specialist & MERN Stack Developer from Bangladesh</h3>
+<h1 align="center">Assalamu Alaikum! 👋 I'm **MD RAKIBUL ISLAM (ROKY)**</h1>
+<h3 align="center">🚀 Frontend Specialist & MERN Stack Developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roky18&label=Profile%20views&color=0e75b6&style=flat" alt="roky18" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roky18" alt="roky18" /></a> </p>
-
-- 🔭 I’m currently working on **Full-stack MERN projects using React, Node.js, Express.js & MongoDB - Frontend-focused applications with modern UI using Tailwind CSS & DaisyUI**
-
-- 🌱 I’m currently learning **- Next.js - Advanced React - Backend optimization with Node.js**
-
-- 👯 I’m looking to collaborate on **React & MERN Stack projects - Frontend UI/UX focused web applications**
-
-- 🤝 I’m looking for help with **- Advanced React patterns - Performance optimization - Next.js best practices**
-
-- 👨‍💻 All of my projects are available at 🔗 GitHub: https://github.com/roky18
-
-- 💬 Ask me about **- React - JavaScript - Tailwind CSS - Firebase Authentication - MERN Stack Basics**
-
-- 📫 How to reach me **- 📧 Email: roky18bd@gmail.com 🔗 LinkedIn: https://linkedin.com/in/roky18**
-
-- ⚡ Fun fact **I enjoy learning new technologies and turning ideas into real web applications 😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rokymax626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rokymax626" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rokymax626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rokymax626" height="30" width="40" /></a>
-<a href="https://fb.com/rokymax626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rokymax626" height="30" width="40" /></a>
-<a href="https://instagram.com/rokymax626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rokymax626" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=roky18&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/roky18">
+    <img src="https://github-profile-trophy.vercel.app/?username=roky18&theme=radical" alt="GitHub Trophy" />
+  </a>
+</p>
 
+---
 
+## 👨‍💻 About Me
+
+I am a passionate web developer with hands‑on experience in **React, Tailwind CSS, JavaScript, Node.js, MongoDB, Firebase, and modern deployment tools**.  
+I’ve completed a **6‑month intensive Programming Hero course** and have been building real projects to sharpen my skills.  
+Currently, I am actively seeking **internship or job opportunities** where I can contribute, learn, and grow.
+
+---
+
+## 🌱 What I’m Currently Learning
+
+✔️ Advanced React & React Patterns  
+✔️ Next.js (Full Stack Applications)  
+✔️ Backend Optimization with Node.js
+
+---
+
+## 💼 Skills & Tools
+
+### 👨‍💻 Frontend
+- **React.js**
+- **JavaScript (ES6+)**
+- **Tailwind CSS**
+- **HTML5 & CSS3**
+
+### 🛠️ Backend
+- **Node.js**
+- **Firebase Authentication**
+
+### 📦 Database
+- **MongoDB**
+
+### ☁️ Deployment
+- **Netlify**
+- **Vercel**
+- **Surge**
+
+### 🔧 Tools
+- **Git & GitHub**
+- **VS Code**
+- **Postman**
+
+### 📊 Office Tools
+- **Microsoft Word**
+- **Microsoft Excel**
+- **Microsoft PowerPoint**
+- **Google Docs**
+
+---
+
+## 📫 Contact Me
+
+✉️ **Email:** roky18bd@gmail.com  
+🔗 **LinkedIn:** https://linkedin.com/in/roky18  
+🌐 **GitHub:** https://github.com/roky18
+
+---
+
+## 🚀 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roky18&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://twitter.com/rokymax626" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" />
+  </a>
+  <a href="https://linkedin.com/in/roky18" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+  <a href="https://facebook.com/rokymax626" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40" />
+  </a>
+</p>
+
+---
+
+## 🔥 Let’s Build Amazing Things Together!
+I’m always open to collaborate on meaningful projects and learn from others. 🚀
