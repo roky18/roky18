@@ -53,7 +53,7 @@ Currently, I am actively seeking **internship or job opportunities** where I can
 
 <p align="center">
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,nextjs,firebase,git,github,vercel,surge&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,nextjs,firebase,git,github,vercel,surge&perline=4" />
 </p>
 
 ## 📫 Contact Me
