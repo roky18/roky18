@@ -69,18 +69,6 @@ Currently, I am actively seeking **internship or job opportunities** where I can
 ---
 
 
-## 🚀 GitHub Stats
-
-<p align="center">
-  <!-- Main stats -->
-  <a href="https://github.com/roky18">
-    <img src="https://github-readme-stats.vercel.app/api?username=roky18&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </a>
-
-  <!-- Top languages used -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roky18&layout=compact&theme=radical" alt="Top Languages" />
-</p>
----
 
 ## 🌐 Connect with Me
 
