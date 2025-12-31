@@ -21,14 +21,6 @@ Currently, I am actively seeking **internship or job opportunities** where I can
 
 ---
 
-## 🌱 What I’m Currently Learning
-
-✔️ Advanced React & React Patterns  
-✔️ Next.js (Full Stack Applications)  
-✔️ Backend Optimization with Node.js
-
----
-
 ## 💼 Skills & Tools
 
 ### 👨‍💻 Frontend
@@ -59,6 +51,13 @@ Currently, I am actively seeking **internship or job opportunities** where I can
 - **Microsoft Excel**
 - **Microsoft PowerPoint**
 - **Google Docs**
+---
+
+## 🌱 What I’m Currently Learning
+
+✔️ Advanced React & React Patterns  
+✔️ Next.js (Full Stack Applications)  
+✔️ Backend Optimization with Node.js
 
 ---
 
@@ -70,10 +69,12 @@ Currently, I am actively seeking **internship or job opportunities** where I can
 ## 📫 Contact Me
 
 ✉️ **Email:** roky18bd@gmail.com  
+📞 **Mobile:** +8801727020930  
 🔗 **LinkedIn:** https://linkedin.com/in/roky18  
-🌐 **GitHub:** https://github.com/roky18
-
+🌐 **GitHub:** https://github.com/roky18  
+📘 **Facebook:** https://facebook.com/rokymax626
 ---
+
 
 ## 🚀 GitHub Stats
 
