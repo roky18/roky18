@@ -1,12 +1,13 @@
-<h1 align="center">Assalamu Alaikum! 👋 I'm **MD RAKIBUL ISLAM (ROKY)**</h1>
+<h1 align="center">Assalamu Alaikum! ✋I'm **MD RAKIBUL ISLAM (ROKY)**</h1>
 <h3 align="center">🚀 Frontend Specialist & MERN Stack Developer from Bangladesh</h3>
 <img width="1536" height="1024" alt="git banner" src="https://github.com/user-attachments/assets/f696af91-1793-4de3-a8f3-4dd1f6647e5b" />
 
 
 ## 👨‍💻 About Me
 
-I am a passionate web developer with hands‑on experience in **React, Tailwind CSS, JavaScript, Node.js, MongoDB, Firebase, and modern deployment tools**.  
-I’ve completed a **6‑month intensive Programming Hero course** and have been building real projects to sharpen my skills.  
+💠I am a passionate web developer with hands‑on experience in **React, Tailwind CSS, JavaScript, Node.js, MongoDB, Firebase, and modern deployment tools**.  
+
+💠I’ve completed a **6‑month intensive Programming Hero course** and have been building real projects to sharpen my skills.  
 Currently, I am actively seeking **internship or job opportunities** where I can contribute, learn, and grow.
 
 ---
@@ -45,9 +46,9 @@ Currently, I am actively seeking **internship or job opportunities** where I can
 
 ## 🌱 What I’m Currently Learning
 
-✔️ Advanced React & React Patterns  
-✔️ Next.js (Full Stack Applications)  
-✔️ Backend Optimization with Node.js
+♻ Advanced React & React Patterns  
+♻ Next.js (Full Stack Applications)  
+♻ Backend Optimization with Node.js
 
 ---
 
