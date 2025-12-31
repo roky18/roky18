@@ -70,9 +70,11 @@ Currently, I am actively seeking **internship or job opportunities** where I can
 
 ✉️ **Email:** roky18bd@gmail.com  
 📞 **Mobile:** +8801727020930  
-🔗 **LinkedIn:** https://linkedin.com/in/roky18  
-🌐 **GitHub:** https://github.com/roky18  
-📘 **Facebook:** https://facebook.com/rokymax626
+<img src="https://raw.githubusercontent.com/ali-han/Twitter-x-icon-logo/main/dark/Twitter%20X%20Icon.svg" alt="X Logo" width="20" height="20" /> **Twitter:** https://twitter.com/rokymax626  
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="10" height="10" /> **LinkedIn:** https://linkedin.com/in/roky18  
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="10" height="10" /> **GitHub:** https://github.com/roky18  
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="10" height="10" /> **Facebook:** https://facebook.com/rokymax626
+
 ---
 
 
