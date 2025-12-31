@@ -1,17 +1,8 @@
 <h1 align="center">Assalamu Alaikum! 👋 I'm **MD RAKIBUL ISLAM (ROKY)**</h1>
 <h3 align="center">🚀 Frontend Specialist & MERN Stack Developer from Bangladesh</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=roky18&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/roky18">
-    <img src="https://github-profile-trophy.vercel.app/?username=roky18&theme=radical" alt="GitHub Trophy" />
-  </a>
-</p>
-
 ---
+<img width="1536" height="1024" alt="git banner" src="https://github.com/user-attachments/assets/f696af91-1793-4de3-a8f3-4dd1f6647e5b" />
+
 
 ## 👨‍💻 About Me
 
@@ -81,9 +72,14 @@ Currently, I am actively seeking **internship or job opportunities** where I can
 ## 🚀 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roky18&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+  <!-- Main stats -->
+  <a href="https://github.com/roky18">
+    <img src="https://github-readme-stats.vercel.app/api?username=roky18&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
 
+  <!-- Top languages used -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roky18&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 ---
 
 ## 🌐 Connect with Me
