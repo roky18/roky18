@@ -10,6 +10,7 @@
 💠I’ve completed a **6‑month intensive Programming Hero course** and have been building real projects to sharpen my skills.  
 Currently, I am actively seeking **internship or job opportunities** where I can contribute, learn, and grow.
 
+💠Live Portfolio Link: https://roky18.github.io/Protfolieo/
 ---
 
 ## 💼 Skills & Tools
