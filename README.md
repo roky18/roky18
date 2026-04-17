@@ -15,7 +15,7 @@ Currently, I am actively seeking **internship or job opportunities** where I can
 
 ## ✅ Featured Projects
 
-### 🗺 [Travelee – Travel Planning Platform](https://travelee-client.vercel.app)
+### ✈ [Travelee – Travel Planning Platform](https://travelee-client.vercel.app)
 *A collaborative travel planning tool built with the MERN stack.*
 - **Real-time Features:** Built collaborative planning with **Socket.io** for instant notifications.
 - **Secure Payments:** Integrated **Stripe API** for seamless bookings and transactions.
@@ -88,10 +88,10 @@ Currently, I am actively seeking **internship or job opportunities** where I can
 
 ✉️ **Email:** roky18bd@gmail.com  
 📞 **Mobile:** +8801727020930  
-**Twitter:** https://twitter.com/rokymax626  
-**LinkedIn:** https://linkedin.com/in/roky18  
-**GitHub:** https://github.com/roky18  
-**Facebook:** https://facebook.com/rokymax626
+   **Twitter:** https://twitter.com/rokymax626  
+   **LinkedIn:** https://linkedin.com/in/roky18  
+   **GitHub:** https://github.com/roky18  
+   **Facebook:** https://facebook.com/rokymax626
 
 ---
 
