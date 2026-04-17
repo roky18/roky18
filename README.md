@@ -22,8 +22,11 @@ Currently, I am actively seeking **internship or job opportunities** where I can
 - **Team Workflow:** Managed tasks and sprints using **Jira** following Agile methodologies.
 
 <p align="center">
-  <img src="এখানে_তোমার_Travelee_স্ক্রিনশট_লিঙ্ক" alt="Travelee Screenshot" style="max-width: 100%; border-radius: 10px; border: 1px solid #ddd;" />
+  <img src="https://github.com/user-attachments/assets/938ecddd-fa72-40d1-9b12-469700c48dd9" alt="Travelee Screenshot" style="max-width: 100%; border-radius: 10px; border: 1px solid #ddd;" />
 </p>
+
+
+
 
 ### 📚 [Digital Life Lessons – Content Sharing Platform](https://digital-life-lessons-ef218.web.app)
 *A full-stack educational platform for sharing personal growth insights.*
@@ -32,7 +35,7 @@ Currently, I am actively seeking **internship or job opportunities** where I can
 - **Full CRUD:** Developed complete lesson management with a responsive user experience.
 
 <p align="center">
-  <img src="এখানে_তোমার_Digital_Life_Lessons_স্ক্রিনশট_লিঙ্ক" alt="Digital Life Lessons Screenshot" style="max-width: 100%; border-radius: 10px; border: 1px solid #ddd;" />
+  <img src="https://github.com/user-attachments/assets/9b8bfbc9-5804-48f8-bbfe-a6c33e6089b7" alt="Digital Life Lessons Screenshot" style="max-width: 100%; border-radius: 10px; border: 1px solid #ddd;" />
 </p>
 
 ---
