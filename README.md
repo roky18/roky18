@@ -13,6 +13,29 @@ Currently, I am actively seeking **internship or job opportunities** where I can
 💠Live Portfolio Link: https://roky18.github.io/Protfolieo/
 ---
 
+## ✅ Featured Projects
+
+### 🗺 [Travelee – Travel Planning Platform](https://travelee-client.vercel.app)
+*A collaborative travel planning tool built with the MERN stack.*
+- **Real-time Features:** Built collaborative planning with **Socket.io** for instant notifications.
+- **Secure Payments:** Integrated **Stripe API** for seamless bookings and transactions.
+- **Team Workflow:** Managed tasks and sprints using **Jira** following Agile methodologies.
+
+<p align="center">
+  <img src="এখানে_তোমার_Travelee_স্ক্রিনশট_লিঙ্ক" alt="Travelee Screenshot" style="max-width: 100%; border-radius: 10px; border: 1px solid #ddd;" />
+</p>
+
+### 📚 [Digital Life Lessons – Content Sharing Platform](https://digital-life-lessons-ef218.web.app)
+*A full-stack educational platform for sharing personal growth insights.*
+- **Premium Access:** Integrated **Stripe** for one-time payments and locked premium content.
+- **Role-Based Access:** Developed a dual-dashboard system (Admin & User) for moderation.
+- **Full CRUD:** Developed complete lesson management with a responsive user experience.
+
+<p align="center">
+  <img src="এখানে_তোমার_Digital_Life_Lessons_স্ক্রিনশট_লিঙ্ক" alt="Digital Life Lessons Screenshot" style="max-width: 100%; border-radius: 10px; border: 1px solid #ddd;" />
+</p>
+
+---
 ## 💼 Skills & Tools
 
 ### 👨‍💻 Frontend
@@ -62,10 +85,10 @@ Currently, I am actively seeking **internship or job opportunities** where I can
 
 ✉️ **Email:** roky18bd@gmail.com  
 📞 **Mobile:** +8801727020930  
-<img src="https://raw.githubusercontent.com/ali-han/Twitter-x-icon-logo/main/dark/Twitter%20X%20Icon.svg" alt="X Logo" width="20" height="20" /> **Twitter:** https://twitter.com/rokymax626  
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="10" height="10" /> **LinkedIn:** https://linkedin.com/in/roky18  
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="10" height="10" /> **GitHub:** https://github.com/roky18  
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="10" height="10" /> **Facebook:** https://facebook.com/rokymax626
+**Twitter:** https://twitter.com/rokymax626  
+**LinkedIn:** https://linkedin.com/in/roky18  
+**GitHub:** https://github.com/roky18  
+**Facebook:** https://facebook.com/rokymax626
 
 ---
 
