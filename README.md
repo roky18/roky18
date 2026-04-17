@@ -74,18 +74,27 @@ Currently, I am actively seeking **internship or job opportunities** where I can
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/rokymax626" target="_blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="42" height="42" />
-  </a>
-
-  <a href="https://linkedin.com/in/roky18" target="_blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="42" height="42" />
-  </a>
-
-  <a href="https://facebook.com/rokymax626" target="_blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="42" height="42" />
-  </a>
+  <table align="center">
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://twitter.com/rokymax626" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="42" height="42" />
+        </a>
+      </td>
+      <td align="center" style="border: none; padding: 0 20px;">
+        <a href="https://linkedin.com/in/roky18" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="42" height="42" />
+        </a>
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://facebook.com/rokymax626" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="42" height="42" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
+
 
 
 ---
