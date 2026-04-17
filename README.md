@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-💠I am a passionate web developer with hands‑on experience in **React, Tailwind CSS, JavaScript, Node.js, MongoDB, Firebase, and modern deployment tools**.  
+💠I am a passionate web developer with hands‑on experience in **React, Tailwind CSS, JavaScript, Next.js, Node.js, MongoDB, Firebase, and modern deployment tools**.  
 
 💠I’ve completed a **6‑month intensive Programming Hero course** and have been building real projects to sharpen my skills.  
 Currently, I am actively seeking **internship or job opportunities** where I can contribute, learn, and grow.
